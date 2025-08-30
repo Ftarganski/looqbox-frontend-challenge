@@ -20,9 +20,9 @@ _Uma aplicação React + Vite + Tailwind focada em Pokémons, Berries e Itens, c
 
 ```
 lookbox-test/
-├── messages/
+├── tests/
 │   ├── helpers/               # Testes unitários dos helpers
-│   └── 	hooks/                # Testes unitários dos hooks customizados
+│   └── hooks/                 # Testes unitários dos hooks customizados
 ├── messages/                  # Arquivos de internacionalização (en, pt)
 ├── public/                    # Assets estáticos (favicon, imagens, etc)
 ├── src/
